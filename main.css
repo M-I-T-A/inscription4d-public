@@ -24,6 +24,14 @@ body {
     display: flex !important;
     bottom: 20px;
     top: auto !important;
+    --background-color: #0000cc;
+    --title-background-color: #0000cc;
+    --text-color: #ffffff;
+    --title-text-color: #ffffff;
+    --number-color: #0000cc;
+    --widget-color: #ffffff;
+    --hover-color: #efefef;
+    --focus-color: #aff0fd;
   }
 }
 
